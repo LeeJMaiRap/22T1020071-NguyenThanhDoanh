@@ -18,5 +18,8 @@
   "homepage": "https://github.com/LeeJMaiRap/22T1020071-NguyenThanhDoanh#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
