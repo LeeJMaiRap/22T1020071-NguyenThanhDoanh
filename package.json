@@ -1,0 +1,22 @@
+{
+  "name": "22t1020071-nguyenthanhdoanh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeJMaiRap/22T1020071-NguyenThanhDoanh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeJMaiRap/22T1020071-NguyenThanhDoanh/issues"
+  },
+  "homepage": "https://github.com/LeeJMaiRap/22T1020071-NguyenThanhDoanh#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
